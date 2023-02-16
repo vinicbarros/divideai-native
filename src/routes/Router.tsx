@@ -4,7 +4,7 @@ import { PrivateStack } from "./PrivateStack";
 import { PublicStack } from "./PublicStack";
 
 export default function Router() {
-  const token = true;
+  const token = false;
 
   return (
     <NavigationContainer>
